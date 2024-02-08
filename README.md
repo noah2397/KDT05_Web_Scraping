@@ -29,6 +29,15 @@
 | 23.02.07  |   데이터 크롤링 기초(2)- urllib.request.Request 클래스, 로봇 인식 방지, user agent request    | [Naver Blog](https://blog.naver.com/mathnoah/223346829940) |  DAY01/Chapter01 |
 | 23.02.07  |    데이터 크롤링 기초(3) - CSS 스타일, class, id   | [Naver Blog](https://blog.naver.com/mathnoah/223346837212) |  DAY01/Chapter01 |
 | 23.02.07  | 데이터 크롤링 기초(4) - 마크업,다운언어, 웹 크롤링 가능 여부 확인, line server(VScode extension), VS code 실시간 html 실행 결과 조회  |  [Naver Blog](https://blog.naver.com/mathnoah/223346926657) |  -- |
+| 23.02.07  | 데이터 크롤링 기초(5) -find(검색), .string과 .text차이점 |  [Naver Blog](https://blog.naver.com/mathnoah/223347026017) |  DAY01/Chapter02 |
+| 23.02.07  | 데이터 크롤링 기초(6)-select |  [Naver Blog](https://blog.naver.com/mathnoah/223347098704) |    DAY01/Chapter02 |
+| 23.02.08  | 파이참 인증 코드 사용 방법(Pycharm Professional) |  [Naver Blog](https://blog.naver.com/mathnoah/223347832629) |  -- |
+| 23.02.08  | 데이터 크롤링 기초(7)-트리이동, 특정단어찾기, parent, children, descendants, next_siblings, previous_siblings |  [Naver Blog](https://blog.naver.com/mathnoah/223347899865) |  DAY02/chapter03 |
+| 23.02.08  |데이터 크롤링 기초(8)-정규표현식  |  [Naver Blog](https://blog.naver.com/mathnoah/223348114297) | DAY02/chapter03  |
+| 23.02.08  | 데이터 크롤링 기초(9)-정규표현식 총정리(Regexp summarization) |  [Naver Blog](https://blog.naver.com/mathnoah/223348080325) |  DAY02/chapter03 |
+| 23.02.08  |  Python 정규식 테스트 사이트|  [Naver Blog](https://blog.naver.com/mathnoah/223348120899) |  -- |
+| 23.02.08  |  |  [Naver Blog]() |   |
+
 
 
 
