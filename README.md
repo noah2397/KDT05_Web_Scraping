@@ -14,8 +14,15 @@
 <img src="https://network.hanb.co.kr/data/books/B5046562423_l.jpg" width=300, height=400>   
 
 
-```   
+##### Python SET 조작 함수
 
+```
+numbers=set()
+numbers.add(4) # Set에 요소 추가
+numbers.discard(4) # discard(): Set에서 요소 삭제
+print(numbers) # discard()는 없는 요소를 삭제해도 예외 발생하지 않음
+numbers.remove(3) # remove(): Set에 없는 요소를 삭제하면 예외를 발생시킴
+numbers.clear() # clear(): 모든 요소 삭제
 ```
 
 
