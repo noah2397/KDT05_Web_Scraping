@@ -19,4 +19,11 @@ class Card:
     
 if	__name__	==	'__main__':
     card	=	Card('♠',	10)
+    
+    
+    
+    for i in card_suite :
+        for j in card_numbers:
+            test=Card(i,j)
+            self.deck.append(test)
     print(card)
