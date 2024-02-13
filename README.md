@@ -9,9 +9,9 @@
 
 교재 : Web Scraping with Python(파이썬으로 웹 크롤러 만들기, 2판)    
 - 라이언 미첼, 한선용 (한빛미디어)  
-[교재 사이트](https://network.hanbit.co.kr/data/books/B5046562423_l.jpg) 
+[교재 사이트](https://network.hanb.co.kr/store/books/look.php?p_code=B5046562423) 
 
-<img src="https://network.hanb.co.kr/data/books/B5046562423_l.jpg" width=300, height=400>   
+<img src="https://network.hanbit.co.kr/data/books/B5046562423_l.jpg" width=300, height=400>   
 
 
 ##### Python SET 조작 함수
