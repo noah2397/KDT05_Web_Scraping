@@ -1,0 +1,49 @@
+-- SQLBook: Code
+-- Active: 1706681927328@@127.0.0.1@3306@population
+create database scraping;
+
+use scraping;
+-- SQLBook: Code
+-- 데이터베이스에 새로운 테이블(Pages) 생성
+-- 테이블 생성 시 기존 테이블이 있으면 삭제함
+drop table if exists pages;
+create table pages (
+id BIGINT(7) not null auto_increment,
+title VARCHAR(200),
+content VARCHAR(10000),
+created TIMESTAMP default CURRENT_TIMESTAMP, -- 기본 값으로 현재시간을 자동으로 저장
+PRIMARY KEY(id)
+);
+-- SQLBook: Code
+DESCRIBE pages;
+-- SQLBook: Code
+insert into pages(title, content)
+values(
+"Test page title",
+"This is some test page content. It can be up to 10,000 characters long.");
+-- SQLBook: Code
+insert into pages(title, content)
+values(
+"Second page title",
+"This is the second test page content"
+);
+-- SQLBook: Code
+select * from pages where id = 2;
+-- SQLBook: Code
+select * from pages where title like "%test%";
+-- SQLBook: Code
+select id, title, created from pages where content like "%second%";
+-- SQLBook: Code
+delete from pages where id=1;
+-- SQLBook: Code
+select * from pages;
+-- SQLBook: Code
+update pages
+set title="A new title",
+content="Some new content"
+where id=2;
+select * from pages;
+-- SQLBook: Code
+select count(*) from pages;
+-- SQLBook: Code
+select * from pages;
