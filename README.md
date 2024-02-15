@@ -11,7 +11,7 @@
 - 라이언 미첼, 한선용 (한빛미디어)  
 [교재 사이트](https://network.hanb.co.kr/store/books/look.php?p_code=B5046562423) 
 
-<img src="https://network.hanb.co.kr/data/books/B5046562423_l.jpg" width=300, height=400>   
+<img src="https://network.hanbit.co.kr/data/books/B5046562423_l.jpg" width=300, height=400>   
 
 
 ##### Python SET 조작 함수
@@ -43,7 +43,15 @@ numbers.clear() # clear(): 모든 요소 삭제
 | 23.02.08  |데이터 크롤링 기초(8)-정규표현식  |  [Naver Blog](https://blog.naver.com/mathnoah/223348114297) | DAY02/chapter03  |
 | 23.02.08  | 데이터 크롤링 기초(9)-정규표현식 총정리(Regexp summarization) |  [Naver Blog](https://blog.naver.com/mathnoah/223348080325) |  DAY02/chapter03 |
 | 23.02.08  |  Python 정규식 테스트 사이트|  [Naver Blog](https://blog.naver.com/mathnoah/223348120899) |  -- |
-| 23.02.08  |  |  [Naver Blog]() |   |
+| 23.02.08  | 데이터 크롤링 기초(10)-웹 크롤링의 시작, 재귀 크롤링, 정규식 URL, URL 형식, 외부링크수집 |  [Naver Blog](https://blog.naver.com/mathnoah/223348235066) | DAY02/chapter04  |
+| 23.02.11  | Web Scraping with Python-Chapter1~Chapter4(~p.80) (모르는 것) |  [Naver Blog](https://blog.naver.com/mathnoah/223350344564) | DAY03  |
+| 23.02.13  | 데이터 크롤링 기초(11)-데이터 저장, make2d, html_table_parser, DBeaver 크롤링, 크롤링 DB 연계, 크롤링 데이터베이스 연결, 추가 |  [Naver Blog](https://blog.naver.com/mathnoah/223352037789) |  DAY04  |
+| 23.02.13  | 데이터 크롤링 기초(12) - selenium, 크롬 브라우저, .wdm, anaconda path,find_element(By.~,~), send_keys,submit,click |  [Naver Blog](https://blog.naver.com/mathnoah/223352145737) |  DAY04  |
+| 23.02.13  | 데이터 크롤링 기초(13)-selenium연습,prettify, execute_script, page_source |  [Naver Blog](https://blog.naver.com/mathnoah/223352192761) |   DAY04 |
+| 23.02.13  |Naver Open API를 활용한 크롤링  |  [Naver Blog](https://blog.naver.com/mathnoah/223352294423) |  DAY04  |
+| 23.02.14  |데이터 크롤링 기초(14)-형태소 분석을 위한 JDK, Eclipse 설치, wordcloud, jpype1, konlpy 설치  |  [Naver Blog](https://blog.naver.com/mathnoah/223354614924) | DAY05  |
+| 23.02.14 | 데이터 크롤링 기초(15)-형태소 분석, 자연어처리(NLP), KoNLPy, wordcloud구현 |  [Naver Blog](https://blog.naver.com/mathnoah/223354617655) |  DAY05 |
+
 
 
 
