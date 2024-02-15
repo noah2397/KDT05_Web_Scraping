@@ -51,6 +51,7 @@ numbers.clear() # clear(): 모든 요소 삭제
 | 23.02.13  |Naver Open API를 활용한 크롤링  |  [Naver Blog](https://blog.naver.com/mathnoah/223352294423) |  DAY04  |
 | 23.02.14  |데이터 크롤링 기초(14)-형태소 분석을 위한 JDK, Eclipse 설치, wordcloud, jpype1, konlpy 설치  |  [Naver Blog](https://blog.naver.com/mathnoah/223354614924) | DAY05  |
 | 23.02.14 | 데이터 크롤링 기초(15)-형태소 분석, 자연어처리(NLP), KoNLPy, wordcloud구현 |  [Naver Blog](https://blog.naver.com/mathnoah/223354617655) |  DAY05 |
+| 23.02.14~23.02.15 | 프로젝트 |   |  DAY06 |
 
 
 
